@@ -1,0 +1,10 @@
+numpy
+sklearn
+matplotlib
+graphviz
+pathlib
+cv2
+tensorflow
+pandas
+PIL
+
